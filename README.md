@@ -74,7 +74,3 @@ In addition, together with the design team, we developed a website for our produ
 At the end of the internship, I switched to the role of project manager and among my key responsibilities were: assigning tasks to the team, evaluating the work of each team member and setting deadlines for completing tasks. After tracking the completion of tasks and deadlines
 
 The second startup was innovative and aimed at implementing AI for the Israeli museum dedicated to the victims of the Holocaust. In it, I coordinated the work of colleagues, formed a summary of data and designed them for presentation. And she also offered her own options for using AI to modernize and improve the museum.
-
-
-
-Follow
